@@ -1,4 +1,4 @@
-# adaudit By Diyar Abbas
+# adaudit By Diyar
 
 PowerShell Script to perform a quick AD audit
 
